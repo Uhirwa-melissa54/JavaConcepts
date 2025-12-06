@@ -25,3 +25,6 @@ Each concept has its own file or folder with example code and explanations.
 ---
 
 You can explore the repository to learn Java step by step through real code examples.
+File Description:
+Abstraction: explains  how abstraction and loose coupling works
+ExecutorFrameworlDemo: explain how to use ExecutorFramework 
