@@ -28,3 +28,4 @@ You can explore the repository to learn Java step by step through real code exam
 File Description:
 Abstraction: explains  how abstraction and loose coupling works
 ExecutorFrameworlDemo: explain how to use ExecutorFramework 
+ProducerConsumer: This explains how the Producer and Consumer works in java
